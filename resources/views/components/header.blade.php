@@ -32,7 +32,7 @@
                 <p
                     class="fi-ta-header-description text-sm text-gray-600 dark:text-gray-400"
                 >
-                    {{ $description }}
+                    {!! $description !!}
                 </p>
             @endif
         </div>
